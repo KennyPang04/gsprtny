@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as s,a as c}from"./index-iDwlFy0H.js";const t={},n={class:"w-full h-[200vh]"},a=c("section",{class:"w-full h-[90vh]"}," Coming Soon! ",-1),_=[a];function r(i,l){return s(),o("main",n,_)}const f=e(t,[["render",r]]);export{f as default};
